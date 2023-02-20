@@ -1,14 +1,5 @@
 {
     "userdetails": [
-        {
-            "id": 1,
-            "name": "",
-            "age": "",
-            "address": "",
-            "department":"",
-            "salary":0,
-            "marital":"no",
-            "image":""
-        }
+        
     ]
 }
